@@ -1,0 +1,4241 @@
+{
+  "generatedAt": "2026-03-27T09:34:06",
+  "sourceFile": "B:\\Cabling\\BS-C Dlugosci przewodow2.xlsm",
+  "referenceData": {
+    "variants": [
+      {
+        "id": "variant-1",
+        "code": "BS-C-H-1",
+        "lengthMm": 1750,
+        "widthMm": 600,
+        "heightMm": 800,
+        "isActive": true
+      },
+      {
+        "id": "variant-2",
+        "code": "BS-C-H-2",
+        "lengthMm": 1950,
+        "widthMm": 800,
+        "heightMm": 1000,
+        "isActive": true
+      },
+      {
+        "id": "variant-3",
+        "code": "BS-C-H-3",
+        "lengthMm": 1950,
+        "widthMm": 1200,
+        "heightMm": 1000,
+        "isActive": true
+      },
+      {
+        "id": "variant-4",
+        "code": "BS-C-H-4",
+        "lengthMm": 2450,
+        "widthMm": 1200,
+        "heightMm": 1200,
+        "isActive": true
+      },
+      {
+        "id": "variant-5",
+        "code": "BS-C-H-5",
+        "lengthMm": 2450,
+        "widthMm": 1400,
+        "heightMm": 1200,
+        "isActive": true
+      },
+      {
+        "id": "variant-6",
+        "code": "BS-C-H-6",
+        "lengthMm": 2600,
+        "widthMm": 1600,
+        "heightMm": 1410,
+        "isActive": true
+      },
+      {
+        "id": "variant-7",
+        "code": "BS-C-H-7",
+        "lengthMm": 2850,
+        "widthMm": 1600,
+        "heightMm": 1800,
+        "isActive": true
+      }
+    ],
+    "indexMappings": [
+      {
+        "id": "index-1",
+        "variantCode": "BS-C-H-1",
+        "indexCode": "AR",
+        "distanceMm": 340
+      },
+      {
+        "id": "index-2",
+        "variantCode": "BS-C-H-1",
+        "indexCode": "AB",
+        "distanceMm": 1000
+      },
+      {
+        "id": "index-3",
+        "variantCode": "BS-C-H-1",
+        "indexCode": "AC",
+        "distanceMm": 1055
+      },
+      {
+        "id": "index-4",
+        "variantCode": "BS-C-H-1",
+        "indexCode": "AD",
+        "distanceMm": 1235
+      },
+      {
+        "id": "index-5",
+        "variantCode": "BS-C-H-1",
+        "indexCode": "AE",
+        "distanceMm": 1270
+      },
+      {
+        "id": "index-6",
+        "variantCode": "BS-C-H-1",
+        "indexCode": "AF",
+        "distanceMm": 1445
+      },
+      {
+        "id": "index-7",
+        "variantCode": "BS-C-H-1",
+        "indexCode": "AG",
+        "distanceMm": 1520
+      },
+      {
+        "id": "index-8",
+        "variantCode": "BS-C-H-1",
+        "indexCode": "RZ",
+        "distanceMm": 900
+      },
+      {
+        "id": "index-9",
+        "variantCode": "BS-C-H-1",
+        "indexCode": "AH",
+        "distanceMm": 330
+      },
+      {
+        "id": "index-10",
+        "variantCode": "BS-C-H-1",
+        "indexCode": "AI",
+        "distanceMm": 730
+      },
+      {
+        "id": "index-11",
+        "variantCode": "BS-C-H-1",
+        "indexCode": "-",
+        "distanceMm": 0
+      },
+      {
+        "id": "index-12",
+        "variantCode": "BS-C-H-2",
+        "indexCode": "AR",
+        "distanceMm": 340
+      },
+      {
+        "id": "index-13",
+        "variantCode": "BS-C-H-2",
+        "indexCode": "AB",
+        "distanceMm": 1000
+      },
+      {
+        "id": "index-14",
+        "variantCode": "BS-C-H-2",
+        "indexCode": "AC",
+        "distanceMm": 1055
+      },
+      {
+        "id": "index-15",
+        "variantCode": "BS-C-H-2",
+        "indexCode": "AD",
+        "distanceMm": 1235
+      },
+      {
+        "id": "index-16",
+        "variantCode": "BS-C-H-2",
+        "indexCode": "AE",
+        "distanceMm": 1270
+      },
+      {
+        "id": "index-17",
+        "variantCode": "BS-C-H-2",
+        "indexCode": "AF",
+        "distanceMm": 1445
+      },
+      {
+        "id": "index-18",
+        "variantCode": "BS-C-H-2",
+        "indexCode": "AG",
+        "distanceMm": 1520
+      },
+      {
+        "id": "index-19",
+        "variantCode": "BS-C-H-2",
+        "indexCode": "RZ",
+        "distanceMm": 900
+      },
+      {
+        "id": "index-20",
+        "variantCode": "BS-C-H-2",
+        "indexCode": "AH",
+        "distanceMm": 330
+      },
+      {
+        "id": "index-21",
+        "variantCode": "BS-C-H-2",
+        "indexCode": "AI",
+        "distanceMm": 730
+      },
+      {
+        "id": "index-22",
+        "variantCode": "BS-C-H-2",
+        "indexCode": "-",
+        "distanceMm": 0
+      },
+      {
+        "id": "index-23",
+        "variantCode": "BS-C-H-3",
+        "indexCode": "AR",
+        "distanceMm": 340
+      },
+      {
+        "id": "index-24",
+        "variantCode": "BS-C-H-3",
+        "indexCode": "AB",
+        "distanceMm": 1000
+      },
+      {
+        "id": "index-25",
+        "variantCode": "BS-C-H-3",
+        "indexCode": "AC",
+        "distanceMm": 1055
+      },
+      {
+        "id": "index-26",
+        "variantCode": "BS-C-H-3",
+        "indexCode": "AD",
+        "distanceMm": 1235
+      },
+      {
+        "id": "index-27",
+        "variantCode": "BS-C-H-3",
+        "indexCode": "AE",
+        "distanceMm": 1270
+      },
+      {
+        "id": "index-28",
+        "variantCode": "BS-C-H-3",
+        "indexCode": "AF",
+        "distanceMm": 1445
+      },
+      {
+        "id": "index-29",
+        "variantCode": "BS-C-H-3",
+        "indexCode": "AG",
+        "distanceMm": 1520
+      },
+      {
+        "id": "index-30",
+        "variantCode": "BS-C-H-3",
+        "indexCode": "RZ",
+        "distanceMm": 900
+      },
+      {
+        "id": "index-31",
+        "variantCode": "BS-C-H-3",
+        "indexCode": "AH",
+        "distanceMm": 330
+      },
+      {
+        "id": "index-32",
+        "variantCode": "BS-C-H-3",
+        "indexCode": "AI",
+        "distanceMm": 730
+      },
+      {
+        "id": "index-33",
+        "variantCode": "BS-C-H-3",
+        "indexCode": "-",
+        "distanceMm": 0
+      },
+      {
+        "id": "index-36",
+        "variantCode": "BS-C-H-4",
+        "indexCode": "AC",
+        "distanceMm": 1055
+      },
+      {
+        "id": "index-37",
+        "variantCode": "BS-C-H-4",
+        "indexCode": "AD",
+        "distanceMm": 1235
+      },
+      {
+        "id": "index-38",
+        "variantCode": "BS-C-H-4",
+        "indexCode": "AE",
+        "distanceMm": 1270
+      },
+      {
+        "id": "index-39",
+        "variantCode": "BS-C-H-4",
+        "indexCode": "AF",
+        "distanceMm": 1445
+      },
+      {
+        "id": "index-40",
+        "variantCode": "BS-C-H-4",
+        "indexCode": "AG",
+        "distanceMm": 1520
+      },
+      {
+        "id": "index-41",
+        "variantCode": "BS-C-H-4",
+        "indexCode": "RZ",
+        "distanceMm": 900
+      },
+      {
+        "id": "index-42",
+        "variantCode": "BS-C-H-4",
+        "indexCode": "AH",
+        "distanceMm": 330
+      },
+      {
+        "id": "index-43",
+        "variantCode": "BS-C-H-4",
+        "indexCode": "AI",
+        "distanceMm": 730
+      },
+      {
+        "id": "index-44",
+        "variantCode": "BS-C-H-4",
+        "indexCode": "-",
+        "distanceMm": 0
+      },
+      {
+        "id": "index-45",
+        "variantCode": "BS-C-H-5",
+        "indexCode": "AR",
+        "distanceMm": 340
+      },
+      {
+        "id": "index-46",
+        "variantCode": "BS-C-H-5",
+        "indexCode": "AB",
+        "distanceMm": 1000
+      },
+      {
+        "id": "index-47",
+        "variantCode": "BS-C-H-5",
+        "indexCode": "AC",
+        "distanceMm": 1055
+      },
+      {
+        "id": "index-48",
+        "variantCode": "BS-C-H-5",
+        "indexCode": "AD",
+        "distanceMm": 1235
+      },
+      {
+        "id": "index-49",
+        "variantCode": "BS-C-H-5",
+        "indexCode": "AE",
+        "distanceMm": 1270
+      },
+      {
+        "id": "index-50",
+        "variantCode": "BS-C-H-5",
+        "indexCode": "AF",
+        "distanceMm": 1445
+      },
+      {
+        "id": "index-51",
+        "variantCode": "BS-C-H-5",
+        "indexCode": "AG",
+        "distanceMm": 1520
+      },
+      {
+        "id": "index-52",
+        "variantCode": "BS-C-H-5",
+        "indexCode": "RZ",
+        "distanceMm": 900
+      },
+      {
+        "id": "index-53",
+        "variantCode": "BS-C-H-5",
+        "indexCode": "AH",
+        "distanceMm": 330
+      },
+      {
+        "id": "index-54",
+        "variantCode": "BS-C-H-5",
+        "indexCode": "AI",
+        "distanceMm": 730
+      },
+      {
+        "id": "index-55",
+        "variantCode": "BS-C-H-5",
+        "indexCode": "-",
+        "distanceMm": 0
+      }
+    ],
+    "lengthDrivers": [
+      {
+        "id": "driver-width-half",
+        "code": "widthHalf",
+        "label": "B/2",
+        "unit": "mm",
+        "expression": "(widthMm - 100) / 2",
+        "isActive": true,
+        "notes": "Imported from Excel formula for B/2"
+      },
+      {
+        "id": "driver-width-service",
+        "code": "widthService",
+        "label": "B obsluga",
+        "unit": "mm",
+        "expression": "100",
+        "isActive": true,
+        "notes": "Imported from Excel constant for service width"
+      },
+      {
+        "id": "driver-height-petra",
+        "code": "heightPetra",
+        "label": "H petra",
+        "unit": "mm",
+        "expression": "(heightMm - 100 - 50) / 4",
+        "isActive": true,
+        "notes": "Imported from Excel formula for height petra"
+      }
+    ],
+    "optionGroups": [
+      {
+        "id": "group-wlk",
+        "code": "wlk",
+        "label": "Wlk",
+        "type": "single-select",
+        "isVisibleInConfigurator": true
+      },
+      {
+        "id": "group-konfiguracja",
+        "code": "konfiguracja",
+        "label": "Konfiguracja",
+        "type": "single-select",
+        "isVisibleInConfigurator": true
+      },
+      {
+        "id": "group-nagrzewnica",
+        "code": "Nagrzewnica",
+        "label": "Nagrzewnica",
+        "type": "single-select",
+        "isVisibleInConfigurator": true
+      },
+      {
+        "id": "group-fan-nw",
+        "code": "Wentylator NW",
+        "label": "Wentylator NW",
+        "type": "single-select",
+        "isVisibleInConfigurator": true
+      },
+      {
+        "id": "group-fan-w",
+        "code": "Wentylator W",
+        "label": "Wentylator W",
+        "type": "single-select",
+        "isVisibleInConfigurator": true
+      },
+      {
+        "id": "group-damper",
+        "code": "Przepustnica na Wyciagu",
+        "label": "Przepustnica na Wyciagu",
+        "type": "single-select",
+        "isVisibleInConfigurator": true
+      },
+      {
+        "id": "group-rec",
+        "code": "Recyrkulacja",
+        "label": "Recyrkulacja",
+        "type": "boolean-select",
+        "isVisibleInConfigurator": true
+      },
+      {
+        "id": "group-presostat-filra",
+        "code": "Presostat Filra",
+        "label": "Presostat Filra",
+        "type": "boolean-select",
+        "isVisibleInConfigurator": true
+      },
+      {
+        "id": "group-presostat-wym",
+        "code": "Presostat Wymiennika",
+        "label": "Presostat Wymiennika",
+        "type": "boolean-select",
+        "isVisibleInConfigurator": true
+      },
+      {
+        "id": "group-przetwornik",
+        "code": "Przetwornik cisnienia went.",
+        "label": "Przetwornik cisnienia went.",
+        "type": "boolean-select",
+        "isVisibleInConfigurator": true
+      }
+    ],
+    "optionValues": [
+      {
+        "id": "option-1",
+        "groupCode": "wlk",
+        "value": "BS-C-H-1",
+        "label": "BS-C-H-1",
+        "isActive": true
+      },
+      {
+        "id": "option-2",
+        "groupCode": "wlk",
+        "value": "BS-C-H-2",
+        "label": "BS-C-H-2",
+        "isActive": true
+      },
+      {
+        "id": "option-3",
+        "groupCode": "wlk",
+        "value": "BS-C-H-3",
+        "label": "BS-C-H-3",
+        "isActive": true
+      },
+      {
+        "id": "option-4",
+        "groupCode": "wlk",
+        "value": "BS-C-H-4",
+        "label": "BS-C-H-4",
+        "isActive": true
+      },
+      {
+        "id": "option-5",
+        "groupCode": "wlk",
+        "value": "BS-C-H-5",
+        "label": "BS-C-H-5",
+        "isActive": true
+      },
+      {
+        "id": "option-6",
+        "groupCode": "wlk",
+        "value": "BS-C-H-6",
+        "label": "BS-C-H-6",
+        "isActive": true
+      },
+      {
+        "id": "option-7",
+        "groupCode": "wlk",
+        "value": "BS-C-H-7",
+        "label": "BS-C-H-7",
+        "isActive": true
+      },
+      {
+        "id": "option-8",
+        "groupCode": "konfiguracja",
+        "value": "Matka",
+        "label": "Matka",
+        "isActive": true
+      },
+      {
+        "id": "option-9",
+        "groupCode": "konfiguracja",
+        "value": "Matka+CH",
+        "label": "Matka+CH",
+        "isActive": true
+      },
+      {
+        "id": "option-10",
+        "groupCode": "konfiguracja",
+        "value": "Matka+satelitka nietypowa",
+        "label": "Matka+satelitka nietypowa",
+        "isActive": true
+      },
+      {
+        "id": "option-11",
+        "groupCode": "konfiguracja",
+        "value": "Matka+DB",
+        "label": "Matka+DB",
+        "isActive": true
+      },
+      {
+        "id": "option-12",
+        "groupCode": "konfiguracja",
+        "value": "Matka+DB+CH",
+        "label": "Matka+DB+CH",
+        "isActive": true
+      },
+      {
+        "id": "option-13",
+        "groupCode": "konfiguracja",
+        "value": "Matka+DB+satelitka nietypowa",
+        "label": "Matka+DB+satelitka nietypowa",
+        "isActive": true
+      },
+      {
+        "id": "option-14",
+        "groupCode": "konfiguracja",
+        "value": "DB+Matka",
+        "label": "DB+Matka",
+        "isActive": true
+      },
+      {
+        "id": "option-15",
+        "groupCode": "konfiguracja",
+        "value": "DB+Matka+CH",
+        "label": "DB+Matka+CH",
+        "isActive": true
+      },
+      {
+        "id": "option-16",
+        "groupCode": "konfiguracja",
+        "value": "DB+Matka+BD",
+        "label": "DB+Matka+BD",
+        "isActive": true
+      },
+      {
+        "id": "option-17",
+        "groupCode": "konfiguracja",
+        "value": "DB+Matka+BD+CH",
+        "label": "DB+Matka+BD+CH",
+        "isActive": true
+      },
+      {
+        "id": "option-18",
+        "groupCode": "Nagrzewnica",
+        "value": "Brak",
+        "label": "Brak",
+        "isActive": true
+      },
+      {
+        "id": "option-19",
+        "groupCode": "Nagrzewnica",
+        "value": "Wodna",
+        "label": "Wodna",
+        "isActive": true
+      },
+      {
+        "id": "option-20",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC 3 kw",
+        "label": "PTC 3 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-21",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC 6 kw",
+        "label": "PTC 6 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-22",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC 9 kw",
+        "label": "PTC 9 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-23",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC 12 kw",
+        "label": "PTC 12 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-24",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC 15 kw",
+        "label": "PTC 15 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-25",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC 18 kw",
+        "label": "PTC 18 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-26",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC T12+T9 kw",
+        "label": "PTC T12+T9 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-27",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC T12+T12 kw",
+        "label": "PTC T12+T12 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-28",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC T15+T12 kw",
+        "label": "PTC T15+T12 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-29",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC T15+T15 kw",
+        "label": "PTC T15+T15 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-30",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC T12+T12+T9 kw",
+        "label": "PTC T12+T12+T9 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-31",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC T12+T12+T12 kw",
+        "label": "PTC T12+T12+T12 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-32",
+        "groupCode": "Nagrzewnica",
+        "value": "PTC T15+T12+T12 kw",
+        "label": "PTC T15+T12+T12 kw",
+        "isActive": true
+      },
+      {
+        "id": "option-33",
+        "groupCode": "Wentylator NW",
+        "value": "GR20V",
+        "label": "GR20V",
+        "isActive": true
+      },
+      {
+        "id": "option-34",
+        "groupCode": "Wentylator NW",
+        "value": "GR25C 0,5 kW (0,78kW)",
+        "label": "GR25C 0,5 kW (0,78kW)",
+        "isActive": true
+      },
+      {
+        "id": "option-35",
+        "groupCode": "Wentylator NW",
+        "value": "2 x GR25C 0,5 kW (0,78kW)",
+        "label": "2 x GR25C 0,5 kW (0,78kW)",
+        "isActive": true
+      },
+      {
+        "id": "option-36",
+        "groupCode": "Wentylator NW",
+        "value": "GR28C 0,78 kW",
+        "label": "GR28C 0,78 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-37",
+        "groupCode": "Wentylator NW",
+        "value": "GR31C 0,78 kW",
+        "label": "GR31C 0,78 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-38",
+        "groupCode": "Wentylator NW",
+        "value": "GR31C 1,35 kW",
+        "label": "GR31C 1,35 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-39",
+        "groupCode": "Wentylator NW",
+        "value": "GR31C 2,5 kW",
+        "label": "GR31C 2,5 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-40",
+        "groupCode": "Wentylator NW",
+        "value": "2 x GR31C 1,35 kW",
+        "label": "2 x GR31C 1,35 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-41",
+        "groupCode": "Wentylator NW",
+        "value": "2 x GR31C 2,5 kW",
+        "label": "2 x GR31C 2,5 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-42",
+        "groupCode": "Wentylator NW",
+        "value": "GR40C 3,9 kW",
+        "label": "GR40C 3,9 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-43",
+        "groupCode": "Wentylator NW",
+        "value": "GR50C 3,5 kW",
+        "label": "GR50C 3,5 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-44",
+        "groupCode": "Wentylator NW",
+        "value": "GR50C 5,4 kW",
+        "label": "GR50C 5,4 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-45",
+        "groupCode": "Wentylator W",
+        "value": "GR20V",
+        "label": "GR20V",
+        "isActive": true
+      },
+      {
+        "id": "option-46",
+        "groupCode": "Wentylator W",
+        "value": "GR25C 0,5 kW (0,78kW)",
+        "label": "GR25C 0,5 kW (0,78kW)",
+        "isActive": true
+      },
+      {
+        "id": "option-47",
+        "groupCode": "Wentylator W",
+        "value": "2 x GR25C 0,5 kW (0,78kW)",
+        "label": "2 x GR25C 0,5 kW (0,78kW)",
+        "isActive": true
+      },
+      {
+        "id": "option-48",
+        "groupCode": "Wentylator W",
+        "value": "GR28C 0,78 kW",
+        "label": "GR28C 0,78 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-49",
+        "groupCode": "Wentylator W",
+        "value": "GR31C 0,78 kW",
+        "label": "GR31C 0,78 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-50",
+        "groupCode": "Wentylator W",
+        "value": "GR31C 1,35 kW",
+        "label": "GR31C 1,35 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-51",
+        "groupCode": "Wentylator W",
+        "value": "GR31C 2,5 kW",
+        "label": "GR31C 2,5 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-52",
+        "groupCode": "Wentylator W",
+        "value": "2 x GR31C 1,35 kW",
+        "label": "2 x GR31C 1,35 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-53",
+        "groupCode": "Wentylator W",
+        "value": "2 x GR31C 2,5 kW",
+        "label": "2 x GR31C 2,5 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-54",
+        "groupCode": "Wentylator W",
+        "value": "GR40C 3,9 kW",
+        "label": "GR40C 3,9 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-55",
+        "groupCode": "Wentylator W",
+        "value": "GR50C 3,5 kW",
+        "label": "GR50C 3,5 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-56",
+        "groupCode": "Wentylator W",
+        "value": "GR50C 5,4 kW",
+        "label": "GR50C 5,4 kW",
+        "isActive": true
+      },
+      {
+        "id": "option-57",
+        "groupCode": "Przepustnica na Wyciagu",
+        "value": "Na wlocie",
+        "label": "Na wlocie",
+        "isActive": true
+      },
+      {
+        "id": "option-58",
+        "groupCode": "Przepustnica na Wyciagu",
+        "value": "Na wylocie",
+        "label": "Na wylocie",
+        "isActive": true
+      },
+      {
+        "id": "option-59",
+        "groupCode": "Recyrkulacja",
+        "value": "Brak",
+        "label": "Brak",
+        "isActive": true
+      },
+      {
+        "id": "option-60",
+        "groupCode": "Recyrkulacja",
+        "value": "Zamontować",
+        "label": "Zamontować",
+        "isActive": true
+      },
+      {
+        "id": "option-61",
+        "groupCode": "Presostat Filra",
+        "value": "Brak",
+        "label": "Brak",
+        "isActive": true
+      },
+      {
+        "id": "option-62",
+        "groupCode": "Presostat Filra",
+        "value": "Zamontować",
+        "label": "Zamontować",
+        "isActive": true
+      },
+      {
+        "id": "option-63",
+        "groupCode": "Presostat Wymiennika",
+        "value": "Brak",
+        "label": "Brak",
+        "isActive": true
+      },
+      {
+        "id": "option-64",
+        "groupCode": "Presostat Wymiennika",
+        "value": "Zamontować",
+        "label": "Zamontować",
+        "isActive": true
+      },
+      {
+        "id": "option-65",
+        "groupCode": "Przetwornik cisnienia went.",
+        "value": "Brak",
+        "label": "Brak",
+        "isActive": true
+      },
+      {
+        "id": "option-66",
+        "groupCode": "Przetwornik cisnienia went.",
+        "value": "Zamontować",
+        "label": "Zamontować",
+        "isActive": true
+      }
+    ],
+    "cableTypes": [
+      {
+        "id": "cable-1",
+        "code": "2x1mm",
+        "label": "2x1mm",
+        "isActive": true
+      },
+      {
+        "id": "cable-2",
+        "code": "3x1,5mm",
+        "label": "3x1,5mm",
+        "isActive": true
+      },
+      {
+        "id": "cable-3",
+        "code": "3x1mm",
+        "label": "3x1mm",
+        "isActive": true
+      },
+      {
+        "id": "cable-4",
+        "code": "3x2mm",
+        "label": "3x2mm",
+        "isActive": true
+      },
+      {
+        "id": "cable-5",
+        "code": "4x1,5mm",
+        "label": "4x1,5mm",
+        "isActive": true
+      },
+      {
+        "id": "cable-6",
+        "code": "4x2,5mm",
+        "label": "4x2,5mm",
+        "isActive": true
+      },
+      {
+        "id": "cable-7",
+        "code": "6x1mm",
+        "label": "6x1mm",
+        "isActive": true
+      }
+    ]
+  },
+  "rules": [
+    {
+      "id": "rule-1",
+      "element": "Czujnik temperatury czerpnia",
+      "categoryCode": "konfiguracja",
+      "description": "Imported from Excel row 1",
+      "showInReport": true,
+      "conditions": [],
+      "lengthComponents": [
+        {
+          "id": "rule-1-component-1",
+          "label": "Index -",
+          "kind": "index-distance",
+          "indexCode": "-"
+        },
+        {
+          "id": "rule-1-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-1-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-1-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-1-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1mm",
+      "notes": "Excel lp 1",
+      "isActive": false
+    },
+    {
+      "id": "rule-2",
+      "element": "Czujnik temperatury nawiewu",
+      "categoryCode": "konfiguracja",
+      "description": "Imported from Excel row 2",
+      "showInReport": true,
+      "conditions": [],
+      "lengthComponents": [
+        {
+          "id": "rule-2-component-1",
+          "label": "Index AG",
+          "kind": "index-distance",
+          "indexCode": "AG"
+        },
+        {
+          "id": "rule-2-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-2-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-2-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-2-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x2mm",
+      "notes": "Excel lp 2",
+      "isActive": false
+    },
+    {
+      "id": "rule-3",
+      "element": "Czujnik temperatury wyciąg",
+      "categoryCode": "konfiguracja",
+      "description": "Imported from Excel row 3",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-3-1",
+          "field": "konfiguracja",
+          "operator": "in",
+          "values": [
+            "Matka",
+            "Matka+CH",
+            "Matka+satelitka nietypowa",
+            "Matka+DB",
+            "Matka+DB+CH",
+            "Matka+DB+satelitka nietypowa",
+            "DB+Matka",
+            "DB+Matka+CH",
+            "DB+Matka+BD",
+            "DB+Matka+BD+CH"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-3-component-1",
+          "label": "Index AF",
+          "kind": "index-distance",
+          "indexCode": "AF"
+        },
+        {
+          "id": "rule-3-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-3-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-3-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-3-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1mm",
+      "notes": "Excel lp 3",
+      "isActive": true
+    },
+    {
+      "id": "rule-4",
+      "element": "Czunik wilgotności Nawiew na przewodzie",
+      "categoryCode": "konfiguracja",
+      "description": "Imported from Excel row 4",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-4-1",
+          "field": "konfiguracja",
+          "operator": "in",
+          "values": [
+            "Matka",
+            "Matka+CH",
+            "Matka+satelitka nietypowa",
+            "Matka+DB",
+            "Matka+DB+CH",
+            "Matka+DB+satelitka nietypowa",
+            "DB+Matka",
+            "DB+Matka+CH",
+            "DB+Matka+BD",
+            "DB+Matka+BD+CH"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-4-component-1",
+          "label": "Index AG",
+          "kind": "index-distance",
+          "indexCode": "AG"
+        },
+        {
+          "id": "rule-4-component-2",
+          "label": "Exit to element",
+          "kind": "constant",
+          "valueMm": 3000
+        },
+        {
+          "id": "rule-4-component-3",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1mm",
+      "notes": "Excel lp 4",
+      "isActive": true
+    },
+    {
+      "id": "rule-5",
+      "element": "Czunik wilgotności Wyciąg na przewodzie",
+      "categoryCode": "konfiguracja",
+      "description": "Imported from Excel row 5",
+      "showInReport": true,
+      "conditions": [],
+      "lengthComponents": [
+        {
+          "id": "rule-5-component-1",
+          "label": "Index AG",
+          "kind": "index-distance",
+          "indexCode": "AG"
+        },
+        {
+          "id": "rule-5-component-2",
+          "label": "Exit to element",
+          "kind": "constant",
+          "valueMm": 3000
+        },
+        {
+          "id": "rule-5-component-3",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1mm",
+      "notes": "Excel lp 5",
+      "isActive": false
+    },
+    {
+      "id": "rule-6",
+      "element": "Siłownik przepustnicy Nawiew",
+      "categoryCode": "konfiguracja",
+      "description": "Imported from Excel row 6",
+      "showInReport": true,
+      "conditions": [],
+      "lengthComponents": [
+        {
+          "id": "rule-6-component-1",
+          "label": "Index -",
+          "kind": "index-distance",
+          "indexCode": "-"
+        }
+      ],
+      "cableTypeCode": "3x2mm",
+      "notes": "Excel lp 6",
+      "isActive": false
+    },
+    {
+      "id": "rule-7",
+      "element": "Siłownik przepustnicy Wyciąg (wylot)",
+      "categoryCode": "Przepustnica na Wyciągu",
+      "description": "Imported from Excel row 7",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-7-1",
+          "field": "Przepustnica na Wyciagu",
+          "operator": "in",
+          "values": [
+            "Na wylocie"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-7-component-1",
+          "label": "Index AG",
+          "kind": "index-distance",
+          "indexCode": "AG"
+        },
+        {
+          "id": "rule-7-component-2",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-7-component-3",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x2mm",
+      "notes": "Excel lp 7",
+      "isActive": true
+    },
+    {
+      "id": "rule-8",
+      "element": "Siłownik przepustnicy Wyciąg (wlot)",
+      "categoryCode": "Przepustnica na Wyciągu",
+      "description": "Imported from Excel row 8",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-8-1",
+          "field": "Przepustnica na Wyciagu",
+          "operator": "in",
+          "values": [
+            "Na wlocie"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-8-component-1",
+          "label": "Index AG",
+          "kind": "index-distance",
+          "indexCode": "AG"
+        },
+        {
+          "id": "rule-8-component-2",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-8-component-3",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 200
+        }
+      ],
+      "cableTypeCode": "3x2mm",
+      "notes": "Excel lp 8",
+      "isActive": true
+    },
+    {
+      "id": "rule-9",
+      "element": "Siłownik przepustnicy By-PASS",
+      "categoryCode": "standard",
+      "description": "Imported from Excel row 9",
+      "showInReport": true,
+      "conditions": [],
+      "lengthComponents": [
+        {
+          "id": "rule-9-component-1",
+          "label": "Index AH",
+          "kind": "index-distance",
+          "indexCode": "AH"
+        },
+        {
+          "id": "rule-9-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-9-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-9-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-9-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x2mm",
+      "notes": "Excel lp 9",
+      "isActive": true
+    },
+    {
+      "id": "rule-10",
+      "element": "Siłownik przepustnicy Recyrkulacja",
+      "categoryCode": "Recyrkulacja",
+      "description": "Imported from Excel row 10",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-10-1",
+          "field": "Recyrkulacja",
+          "operator": "in",
+          "values": [
+            "Zamontować"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-10-component-1",
+          "label": "Index AI",
+          "kind": "index-distance",
+          "indexCode": "AI"
+        },
+        {
+          "id": "rule-10-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-10-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-10-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-10-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x2mm",
+      "notes": "Excel lp 10",
+      "isActive": true
+    },
+    {
+      "id": "rule-11",
+      "element": "Presostat filtra Nawiew",
+      "categoryCode": "Presostat Filra",
+      "description": "Imported from Excel row 11",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-11-1",
+          "field": "Presostat Filra",
+          "operator": "in",
+          "values": [
+            "Zamontować"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-11-component-1",
+          "label": "Index -",
+          "kind": "index-distance",
+          "indexCode": "-"
+        },
+        {
+          "id": "rule-11-component-2",
+          "label": "B obsluga",
+          "kind": "driver",
+          "driverCode": "widthService"
+        },
+        {
+          "id": "rule-11-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-11-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-11-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "2x1mm",
+      "notes": "Excel lp 11",
+      "isActive": true
+    },
+    {
+      "id": "rule-12",
+      "element": "Presostat filtra Wyciąg",
+      "categoryCode": "Presostat Filra",
+      "description": "Imported from Excel row 12",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-12-1",
+          "field": "Presostat Filra",
+          "operator": "in",
+          "values": [
+            "Zamontować"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-12-component-1",
+          "label": "Index AD",
+          "kind": "index-distance",
+          "indexCode": "AD"
+        },
+        {
+          "id": "rule-12-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-12-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-12-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-12-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "2x1mm",
+      "notes": "Excel lp 12",
+      "isActive": true
+    },
+    {
+      "id": "rule-13",
+      "element": "Presostat Krzyżowy",
+      "categoryCode": "Presostat Wymiennika",
+      "description": "Imported from Excel row 13",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-13-1",
+          "field": "Presostat Wymiennika",
+          "operator": "in",
+          "values": [
+            "Zamontować"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-13-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-13-component-2",
+          "label": "Exit to element",
+          "kind": "constant",
+          "valueMm": 500
+        },
+        {
+          "id": "rule-13-component-3",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-13-component-4",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "2x1mm",
+      "notes": "Excel lp 13",
+      "isActive": true
+    },
+    {
+      "id": "rule-14",
+      "element": "Przetwornik ciśnienia went, Nawiew",
+      "categoryCode": "Przetwornik ciśnienia went.",
+      "description": "Imported from Excel row 14",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-14-1",
+          "field": "Przetwornik ciśnienia went.",
+          "operator": "in",
+          "values": [
+            "Zamontować"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-14-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-14-component-2",
+          "label": "Exit to element",
+          "kind": "constant",
+          "valueMm": 300
+        },
+        {
+          "id": "rule-14-component-3",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-14-component-4",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1mm",
+      "notes": "Excel lp 14",
+      "isActive": true
+    },
+    {
+      "id": "rule-15",
+      "element": "Przetwornik ciśnienia went, Wyciąg",
+      "categoryCode": "Przetwornik ciśnienia went.",
+      "description": "Imported from Excel row 15",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-15-1",
+          "field": "Przetwornik ciśnienia went.",
+          "operator": "in",
+          "values": [
+            "Zamontować"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-15-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-15-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-15-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-15-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-15-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1mm",
+      "notes": "Excel lp 15",
+      "isActive": true
+    },
+    {
+      "id": "rule-16",
+      "element": "Sygnal sterowania went. nawiew",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 16",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-16-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "GR20V",
+            "GR25C 0,5 kW (0,78kW)",
+            "2 x GR25C 0,5 kW (0,78kW)",
+            "GR28C 0,78 kW",
+            "GR31C 0,78 kW",
+            "GR31C 1,35 kW",
+            "GR31C 2,5 kW",
+            "2 x GR31C 1,35 kW",
+            "2 x GR31C 2,5 kW",
+            "GR40C 3,9 kW",
+            "GR50C 3,5 kW",
+            "GR50C 5,4 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-16-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-16-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-16-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-16-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-16-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "6x1mm",
+      "notes": "Excel lp 16",
+      "isActive": true
+    },
+    {
+      "id": "rule-17",
+      "element": "Sygnal sterowania went. wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 17",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-17-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "GR20V",
+            "GR25C 0,5 kW (0,78kW)",
+            "2 x GR25C 0,5 kW (0,78kW)",
+            "GR28C 0,78 kW",
+            "GR31C 0,78 kW",
+            "GR31C 1,35 kW",
+            "GR31C 2,5 kW",
+            "2 x GR31C 1,35 kW",
+            "2 x GR31C 2,5 kW",
+            "GR40C 3,9 kW",
+            "GR50C 3,5 kW",
+            "GR50C 5,4 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-17-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-17-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-17-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-17-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-17-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "6x1mm",
+      "notes": "Excel lp 17",
+      "isActive": true
+    },
+    {
+      "id": "rule-18",
+      "element": "Zasilanie wentylatora nawiew",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 18",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-18-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "GR20V"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-18-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-18-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-18-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-18-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-18-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1,5mm",
+      "notes": "Excel lp 18",
+      "isActive": true
+    },
+    {
+      "id": "rule-19",
+      "element": "Zasilanie wentylatora nawiew",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 19",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-19-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "GR25C 0,5 kW (0,78kW)"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-19-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-19-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-19-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-19-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-19-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1,5mm",
+      "notes": "Excel lp 19",
+      "isActive": true
+    },
+    {
+      "id": "rule-20",
+      "element": "Zasilanie wentylatora nawiew",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 20",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-20-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "2 x GR25C 0,5 kW (0,78kW)"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-20-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-20-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-20-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-20-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-20-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1,5mm",
+      "notes": "Excel lp 20",
+      "isActive": true
+    },
+    {
+      "id": "rule-21",
+      "element": "Zasilanie wentylatora nawiew",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 21",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-21-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "GR28C 0,78 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-21-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-21-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-21-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-21-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-21-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1,5mm",
+      "notes": "Excel lp 21",
+      "isActive": true
+    },
+    {
+      "id": "rule-22",
+      "element": "Zasilanie wentylatora nawiew",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 22",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-22-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "GR31C 0,78 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-22-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-22-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-22-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-22-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-22-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1,5mm",
+      "notes": "Excel lp 22",
+      "isActive": true
+    },
+    {
+      "id": "rule-23",
+      "element": "Zasilanie wentylatora nawiew",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 23",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-23-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "GR31C 1,35 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-23-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-23-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-23-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-23-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-23-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x1,5mm",
+      "notes": "Excel lp 23",
+      "isActive": true
+    },
+    {
+      "id": "rule-24",
+      "element": "Zasilanie wentylatora nawiew",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 24",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-24-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "GR31C 2,5 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-24-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-24-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-24-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-24-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-24-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x1,5mm",
+      "notes": "Excel lp 24",
+      "isActive": true
+    },
+    {
+      "id": "rule-25",
+      "element": "Zasilanie wentylatora nawiew 1",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 25",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-25-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "2 x GR31C 1,35 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-25-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-25-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-25-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-25-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-25-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x1,5mm",
+      "notes": "Excel lp 25",
+      "isActive": true
+    },
+    {
+      "id": "rule-26",
+      "element": "Zasilanie wentylatora nawiew 2",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 26",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-26-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "2 x GR31C 1,35 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-26-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-26-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-26-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-26-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-26-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x1,5mm",
+      "notes": "Excel lp 26",
+      "isActive": true
+    },
+    {
+      "id": "rule-27",
+      "element": "Zasilanie wentylatora nawiew",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 27",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-27-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "2 x GR31C 2,5 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-27-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-27-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-27-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-27-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-27-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x1,5mm",
+      "notes": "Excel lp 27",
+      "isActive": true
+    },
+    {
+      "id": "rule-28",
+      "element": "Zasilanie wentylatora nawiew",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 28",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-28-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "GR40C 3,9 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-28-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-28-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-28-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-28-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-28-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x2,5mm",
+      "notes": "Excel lp 28",
+      "isActive": true
+    },
+    {
+      "id": "rule-29",
+      "element": "Zasilanie wentylatora nawiew",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 29",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-29-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "GR50C 3,5 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-29-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-29-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-29-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-29-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-29-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x1,5mm",
+      "notes": "Excel lp 29",
+      "isActive": true
+    },
+    {
+      "id": "rule-30",
+      "element": "Zasilanie wentylatora nawiew",
+      "categoryCode": "Wentylator NW",
+      "description": "Imported from Excel row 30",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-30-1",
+          "field": "Wentylator NW",
+          "operator": "in",
+          "values": [
+            "GR50C 5,4 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-30-component-1",
+          "label": "Index AC",
+          "kind": "index-distance",
+          "indexCode": "AC"
+        },
+        {
+          "id": "rule-30-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-30-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-30-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-30-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x2,5mm",
+      "notes": "Excel lp 30",
+      "isActive": true
+    },
+    {
+      "id": "rule-31",
+      "element": "Zasilanie wentylatora wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 31",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-31-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "GR20V"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-31-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-31-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-31-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-31-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-31-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1,5mm",
+      "notes": "Excel lp 31",
+      "isActive": true
+    },
+    {
+      "id": "rule-32",
+      "element": "Zasilanie wentylatora wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 32",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-32-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "GR25C 0,5 kW (0,78kW)"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-32-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-32-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-32-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-32-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-32-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1,5mm",
+      "notes": "Excel lp 32",
+      "isActive": true
+    },
+    {
+      "id": "rule-33",
+      "element": "Zasilanie wentylatora wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 33",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-33-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "2 x GR25C 0,5 kW (0,78kW)"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-33-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-33-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-33-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-33-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-33-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1,5mm",
+      "notes": "Excel lp 33",
+      "isActive": true
+    },
+    {
+      "id": "rule-34",
+      "element": "Zasilanie wentylatora wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 34",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-34-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "GR28C 0,78 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-34-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-34-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-34-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-34-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-34-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1,5mm",
+      "notes": "Excel lp 34",
+      "isActive": true
+    },
+    {
+      "id": "rule-35",
+      "element": "Zasilanie wentylatora wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 35",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-35-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "GR31C 0,78 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-35-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-35-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-35-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-35-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-35-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "3x1,5mm",
+      "notes": "Excel lp 35",
+      "isActive": true
+    },
+    {
+      "id": "rule-36",
+      "element": "Zasilanie wentylatora wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 36",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-36-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "GR31C 1,35 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-36-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-36-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-36-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-36-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-36-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x1,5mm",
+      "notes": "Excel lp 36",
+      "isActive": true
+    },
+    {
+      "id": "rule-37",
+      "element": "Zasilanie wentylatora wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 37",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-37-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "GR31C 2,5 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-37-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-37-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-37-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-37-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-37-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x1,5mm",
+      "notes": "Excel lp 37",
+      "isActive": true
+    },
+    {
+      "id": "rule-38",
+      "element": "Zasilanie wentylatora wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 38",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-38-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "2 x GR31C 1,35 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-38-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-38-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-38-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-38-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-38-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x1,5mm",
+      "notes": "Excel lp 38",
+      "isActive": true
+    },
+    {
+      "id": "rule-39",
+      "element": "Zasilanie wentylatora wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 39",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-39-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "2 x GR31C 2,5 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-39-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-39-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-39-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-39-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-39-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x1,5mm",
+      "notes": "Excel lp 39",
+      "isActive": true
+    },
+    {
+      "id": "rule-40",
+      "element": "Zasilanie wentylatora wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 40",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-40-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "GR40C 3,9 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-40-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-40-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-40-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-40-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-40-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x2,5mm",
+      "notes": "Excel lp 40",
+      "isActive": true
+    },
+    {
+      "id": "rule-41",
+      "element": "Zasilanie wentylatora wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 41",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-41-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "GR50C 3,5 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-41-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-41-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-41-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-41-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-41-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x1,5mm",
+      "notes": "Excel lp 41",
+      "isActive": true
+    },
+    {
+      "id": "rule-42",
+      "element": "Zasilanie wentylatora wyciąg",
+      "categoryCode": "Wentylator W",
+      "description": "Imported from Excel row 42",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-42-1",
+          "field": "Wentylator W",
+          "operator": "in",
+          "values": [
+            "GR50C 5,4 kW"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-42-component-1",
+          "label": "Index AB",
+          "kind": "index-distance",
+          "indexCode": "AB"
+        },
+        {
+          "id": "rule-42-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-42-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-42-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-42-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": "4x2,5mm",
+      "notes": "Excel lp 42",
+      "isActive": true
+    },
+    {
+      "id": "rule-43",
+      "element": "Termostat",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 43",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-43-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "Wodna"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-43-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-43-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-43-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-43-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-43-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": "2x1mm",
+      "notes": "Excel lp 43",
+      "isActive": true
+    },
+    {
+      "id": "rule-44",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 44",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-44-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC 3 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-44-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-44-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-44-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-44-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-44-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 44",
+      "isActive": true
+    },
+    {
+      "id": "rule-45",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 45",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-45-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC 6 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-45-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-45-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-45-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-45-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-45-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 45",
+      "isActive": true
+    },
+    {
+      "id": "rule-46",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 46",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-46-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC 9 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-46-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-46-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-46-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-46-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-46-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 46",
+      "isActive": true
+    },
+    {
+      "id": "rule-47",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 47",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-47-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC 12 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-47-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-47-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-47-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-47-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-47-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 47",
+      "isActive": true
+    },
+    {
+      "id": "rule-48",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 48",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-48-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC 15 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-48-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-48-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-48-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-48-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-48-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 48",
+      "isActive": true
+    },
+    {
+      "id": "rule-49",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 49",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-49-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC 18 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-49-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-49-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-49-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-49-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-49-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 49",
+      "isActive": true
+    },
+    {
+      "id": "rule-50",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 50",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-50-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC T12+T9 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-50-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-50-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-50-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-50-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-50-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 50",
+      "isActive": true
+    },
+    {
+      "id": "rule-51",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 51",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-51-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC T12+T12 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-51-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-51-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-51-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-51-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-51-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 51",
+      "isActive": true
+    },
+    {
+      "id": "rule-52",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 52",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-52-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC T15+T12 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-52-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-52-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-52-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-52-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-52-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 52",
+      "isActive": true
+    },
+    {
+      "id": "rule-53",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 53",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-53-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC T15+T15 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-53-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-53-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-53-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-53-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-53-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 53",
+      "isActive": true
+    },
+    {
+      "id": "rule-54",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 54",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-54-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC T12+T12+T9 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-54-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-54-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-54-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-54-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-54-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 54",
+      "isActive": true
+    },
+    {
+      "id": "rule-55",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 55",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-55-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC T12+T12+T12 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-55-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-55-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-55-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-55-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-55-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 55",
+      "isActive": true
+    },
+    {
+      "id": "rule-56",
+      "element": "Nagrzewnica PTC",
+      "categoryCode": "Nagrzewnica",
+      "description": "Imported from Excel row 56",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-56-1",
+          "field": "Nagrzewnica",
+          "operator": "in",
+          "values": [
+            "PTC T15+T12+T12 kw"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-56-component-1",
+          "label": "Index AE",
+          "kind": "index-distance",
+          "indexCode": "AE"
+        },
+        {
+          "id": "rule-56-component-2",
+          "label": "B/2",
+          "kind": "driver",
+          "driverCode": "widthHalf"
+        },
+        {
+          "id": "rule-56-component-3",
+          "label": "H petra",
+          "kind": "driver",
+          "driverCode": "heightPetra"
+        },
+        {
+          "id": "rule-56-component-4",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-56-component-5",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 300
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 56",
+      "isActive": true
+    },
+    {
+      "id": "rule-57",
+      "element": "Złączki",
+      "categoryCode": "Złączki wlot nawiewu",
+      "description": "Imported from Excel row 57",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-57-1",
+          "field": "konfiguracja",
+          "operator": "in",
+          "values": [
+            "DB+Matka",
+            "DB+Matka+CH",
+            "DB+Matka+BD",
+            "DB+Matka+BD+CH"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-57-component-1",
+          "label": "Index AG",
+          "kind": "index-distance",
+          "indexCode": "AG"
+        },
+        {
+          "id": "rule-57-component-2",
+          "label": "Exit to element",
+          "kind": "constant",
+          "valueMm": 200
+        },
+        {
+          "id": "rule-57-component-3",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-57-component-4",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 57",
+      "isActive": true
+    },
+    {
+      "id": "rule-58",
+      "element": "Złączki",
+      "categoryCode": "Złączki wylot nawiewu",
+      "description": "Imported from Excel row 58",
+      "showInReport": true,
+      "conditions": [
+        {
+          "id": "condition-58-1",
+          "field": "konfiguracja",
+          "operator": "in",
+          "values": [
+            "Matka+DB",
+            "Matka+DB+CH",
+            "Matka+DB+satelitka nietypowa",
+            "DB+Matka+BD",
+            "DB+Matka+BD+CH"
+          ]
+        }
+      ],
+      "lengthComponents": [
+        {
+          "id": "rule-58-component-1",
+          "label": "Index AG",
+          "kind": "index-distance",
+          "indexCode": "AG"
+        },
+        {
+          "id": "rule-58-component-2",
+          "label": "Exit to element",
+          "kind": "constant",
+          "valueMm": 200
+        },
+        {
+          "id": "rule-58-component-3",
+          "label": "Slack IN",
+          "kind": "constant",
+          "valueMm": 150
+        },
+        {
+          "id": "rule-58-component-4",
+          "label": "Slack OUT",
+          "kind": "constant",
+          "valueMm": 150
+        }
+      ],
+      "cableTypeCode": null,
+      "notes": "Excel lp 58",
+      "isActive": true
+    }
+  ],
+  "savedConfigurations": [
+    {
+      "id": "saved-reference",
+      "name": "Scenariusz referencyjny",
+      "selections": {
+        "wlk": "BS-C-H-2",
+        "konfiguracja": "DB+Matka",
+        "Nagrzewnica": "Wodna",
+        "Wentylator NW": "2 x GR25C 0,5 kW (0,78kW)",
+        "Wentylator W": "GR25C 0,5 kW (0,78kW)",
+        "Przepustnica na Wyciągu": "Na wlocie",
+        "Recyrkulacja": "Zamontować",
+        "Presostat Filra": "Zamontować",
+        "Presostat Wymiennika": "Zamontować",
+        "Przetwornik ciśnienia went.": "Zamontować"
+      },
+      "createdAt": "2026-03-27T09:34:05",
+      "updatedAt": "2026-03-27T09:34:05"
+    }
+  ],
+  "metadata": {
+    "referenceScenario": {
+      "selections": {
+        "wlk": "BS-C-H-2",
+        "konfiguracja": "DB+Matka",
+        "Nagrzewnica": "Wodna",
+        "Wentylator NW": "2 x GR25C 0,5 kW (0,78kW)",
+        "Wentylator W": "GR25C 0,5 kW (0,78kW)",
+        "Przepustnica na Wyciągu": "Na wlocie",
+        "Recyrkulacja": "Zamontować",
+        "Presostat Filra": "Zamontować",
+        "Presostat Wymiennika": "Zamontować",
+        "Przetwornik ciśnienia went.": "Zamontować"
+      },
+      "expectedSummary": [
+        {
+          "cableType": "2x1mm",
+          "totalM": 6.7925
+        },
+        {
+          "cableType": "3x1,5mm",
+          "totalM": 3.7800000000000002
+        },
+        {
+          "cableType": "3x1mm",
+          "totalM": 10.495000000000001
+        },
+        {
+          "cableType": "3x2mm",
+          "totalM": 4.655
+        },
+        {
+          "cableType": "6x1mm",
+          "totalM": 3.7800000000000002
+        }
+      ],
+      "expectedRows": [
+        {
+          "lp": 1,
+          "element": "Czujnik temperatury wyciąg",
+          "wlk": "BS-C-H-2",
+          "cableType": "3x1mm",
+          "sumM": 2.3075
+        },
+        {
+          "lp": 2,
+          "element": "Czunik wilgotności Nawiew na przewodzie",
+          "wlk": "BS-C-H-2",
+          "cableType": "3x1mm",
+          "sumM": 4.67
+        },
+        {
+          "lp": 3,
+          "element": "Siłownik przepustnicy Wyciąg (wlot)",
+          "wlk": "BS-C-H-2",
+          "cableType": "3x2mm",
+          "sumM": 1.87
+        },
+        {
+          "lp": 4,
+          "element": "Siłownik przepustnicy By-PASS",
+          "wlk": "BS-C-H-2",
+          "cableType": "3x2mm",
+          "sumM": 1.1925
+        },
+        {
+          "lp": 5,
+          "element": "Siłownik przepustnicy Recyrkulacja",
+          "wlk": "BS-C-H-2",
+          "cableType": "3x2mm",
+          "sumM": 1.5925
+        },
+        {
+          "lp": 6,
+          "element": "Presostat filtra Nawiew",
+          "wlk": "BS-C-H-2",
+          "cableType": "2x1mm",
+          "sumM": 0.6125
+        },
+        {
+          "lp": 7,
+          "element": "Presostat filtra Wyciąg",
+          "wlk": "BS-C-H-2",
+          "cableType": "2x1mm",
+          "sumM": 2.0975
+        },
+        {
+          "lp": 8,
+          "element": "Presostat Krzyżowy",
+          "wlk": "BS-C-H-2",
+          "cableType": "2x1mm",
+          "sumM": 1.8
+        },
+        {
+          "lp": 9,
+          "element": "Przetwornik ciśnienia went, Nawiew",
+          "wlk": "BS-C-H-2",
+          "cableType": "3x1mm",
+          "sumM": 1.6
+        },
+        {
+          "lp": 10,
+          "element": "Przetwornik ciśnienia went, Wyciąg",
+          "wlk": "BS-C-H-2",
+          "cableType": "3x1mm",
+          "sumM": 1.9175
+        },
+        {
+          "lp": 11,
+          "element": "Sygnal sterowania went. nawiew",
+          "wlk": "BS-C-H-2",
+          "cableType": "6x1mm",
+          "sumM": 1.9175
+        },
+        {
+          "lp": 12,
+          "element": "Sygnal sterowania went. wyciąg",
+          "wlk": "BS-C-H-2",
+          "cableType": "6x1mm",
+          "sumM": 1.8625
+        },
+        {
+          "lp": 13,
+          "element": "Zasilanie wentylatora nawiew",
+          "wlk": "BS-C-H-2",
+          "cableType": "3x1,5mm",
+          "sumM": 1.9175
+        },
+        {
+          "lp": 14,
+          "element": "Zasilanie wentylatora wyciąg",
+          "wlk": "BS-C-H-2",
+          "cableType": "3x1,5mm",
+          "sumM": 1.8625
+        },
+        {
+          "lp": 15,
+          "element": "Termostat",
+          "wlk": "BS-C-H-2",
+          "cableType": "2x1mm",
+          "sumM": 2.2825
+        }
+      ]
+    },
+    "issues": [
+      {
+        "severity": "warning",
+        "code": "config-rule-disabled-by-reference-output",
+        "message": "Rule 'Czujnik temperatury czerpnia' was disabled because it never appears in workbook output for any configuration value",
+        "context": {
+          "element": "Czujnik temperatury czerpnia",
+          "rawValues": [
+            "Matka",
+            "Matka+CH",
+            "Matka+satelitka nietypowa"
+          ]
+        }
+      },
+      {
+        "severity": "warning",
+        "code": "config-rule-disabled-by-reference-output",
+        "message": "Rule 'Czujnik temperatury nawiewu' was disabled because it never appears in workbook output for any configuration value",
+        "context": {
+          "element": "Czujnik temperatury nawiewu",
+          "rawValues": [
+            "Matka",
+            "Matka+DB"
+          ]
+        }
+      },
+      {
+        "severity": "warning",
+        "code": "config-rule-overridden-by-workbook-output",
+        "message": "Rule 'Czujnik temperatury wyciąg' uses configuration values inferred from workbook output, not raw selection text",
+        "context": {
+          "element": "Czujnik temperatury wyciąg",
+          "inferredValues": [
+            "Matka",
+            "Matka+CH",
+            "Matka+satelitka nietypowa",
+            "Matka+DB",
+            "Matka+DB+CH",
+            "Matka+DB+satelitka nietypowa",
+            "DB+Matka",
+            "DB+Matka+CH",
+            "DB+Matka+BD",
+            "DB+Matka+BD+CH"
+          ],
+          "rawValues": [
+            "Matka",
+            "Matka+CH",
+            "Matka+satelitka nietypowa",
+            "Matka+DB",
+            "Matka+DB+CH"
+          ]
+        }
+      },
+      {
+        "severity": "warning",
+        "code": "config-rule-overridden-by-workbook-output",
+        "message": "Rule 'Czunik wilgotności Nawiew na przewodzie' uses configuration values inferred from workbook output, not raw selection text",
+        "context": {
+          "element": "Czunik wilgotności Nawiew na przewodzie",
+          "inferredValues": [
+            "Matka",
+            "Matka+CH",
+            "Matka+satelitka nietypowa",
+            "Matka+DB",
+            "Matka+DB+CH",
+            "Matka+DB+satelitka nietypowa",
+            "DB+Matka",
+            "DB+Matka+CH",
+            "DB+Matka+BD",
+            "DB+Matka+BD+CH"
+          ],
+          "rawValues": [
+            "Matka",
+            "Matka+CH",
+            "Matka+DB",
+            "Matka+DB+CH"
+          ]
+        }
+      },
+      {
+        "severity": "warning",
+        "code": "config-rule-disabled-by-reference-output",
+        "message": "Rule 'Czunik wilgotności Wyciąg na przewodzie' was disabled because it never appears in workbook output for any configuration value",
+        "context": {
+          "element": "Czunik wilgotności Wyciąg na przewodzie",
+          "rawValues": {}
+        }
+      },
+      {
+        "severity": "warning",
+        "code": "config-rule-disabled-by-reference-output",
+        "message": "Rule 'Siłownik przepustnicy Nawiew' was disabled because it never appears in workbook output for any configuration value",
+        "context": {
+          "element": "Siłownik przepustnicy Nawiew",
+          "rawValues": [
+            "Matka",
+            "Matka+CH",
+            "Matka+satelitka nietypowa"
+          ]
+        }
+      },
+      {
+        "severity": "warning",
+        "code": "normalized-option-value",
+        "message": "Normalized option '2xGR25C 0,5 kW (0,78kW)' to '2 x GR25C 0,5 kW (0,78kW)' in rule 'Zasilanie wentylatora nawiew'",
+        "context": {
+          "element": "Zasilanie wentylatora nawiew",
+          "original": "2xGR25C 0,5 kW (0,78kW)",
+          "normalized": "2 x GR25C 0,5 kW (0,78kW)"
+        }
+      },
+      {
+        "severity": "warning",
+        "code": "missing-variant-index-coverage",
+        "message": "Variant BS-C-H-4 is missing index coverage for: AB",
+        "context": {
+          "variantCode": "BS-C-H-4",
+          "missingIndexCodes": "AB"
+        }
+      },
+      {
+        "severity": "warning",
+        "code": "missing-variant-index-coverage",
+        "message": "Variant BS-C-H-6 is missing index coverage for: -, AB, AC, AD, AE, AF, AG, AH, AI",
+        "context": {
+          "variantCode": "BS-C-H-6",
+          "missingIndexCodes": [
+            "-",
+            "AB",
+            "AC",
+            "AD",
+            "AE",
+            "AF",
+            "AG",
+            "AH",
+            "AI"
+          ]
+        }
+      },
+      {
+        "severity": "warning",
+        "code": "missing-variant-index-coverage",
+        "message": "Variant BS-C-H-7 is missing index coverage for: -, AB, AC, AD, AE, AF, AG, AH, AI",
+        "context": {
+          "variantCode": "BS-C-H-7",
+          "missingIndexCodes": [
+            "-",
+            "AB",
+            "AC",
+            "AD",
+            "AE",
+            "AF",
+            "AG",
+            "AH",
+            "AI"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ${COMPOSE_PROJECT_NAME:-cabling}-app
+    environment:
+      NODE_ENV: production
+      HOST: 0.0.0.0
+      PORT: 4321
+      TZ: ${TZ:-Europe/Warsaw}
+      APP_DB_PATH: ${APP_DB_PATH:-/app/runtime/app.db}
+    volumes:
+      - cabling-runtime:/app/runtime
+    restart: unless-stopped
+    expose:
+      - "4321"
+
+  nginx:
+    build:
+      context: .
+      dockerfile: nginx/Dockerfile
+    container_name: ${COMPOSE_PROJECT_NAME:-cabling}-nginx
+    depends_on:
+      app:
+        condition: service_healthy
+    ports:
+      - "${PUBLIC_PORT:-4321}:80"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q -O /dev/null http://127.0.0.1/nginx-health || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped
+
+volumes:
+  cabling-runtime:

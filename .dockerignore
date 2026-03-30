@@ -1,0 +1,18 @@
+node_modules
+dist
+runtime
+.tmp
+*.log
+tmp-*.pdf
+tmp-*.xlsx
+tmp-*.json
+data/app.db
+.git
+.gitignore
+BS-C Dlugosci przewodow2.xlsm
+DECYZJE_BIZNESOWE_DO_ZATWIERDZENIA.md
+PROMPT_CODEX_MVP_TECHNICZNY.md
+SPECYFIKACJA_GO_MVP.md
+WERYFIKACJA_GOTOWOSCI.md
+URUCHOM_APLIKACJE.cmd
+URUCHOM_APLIKACJE.ps1

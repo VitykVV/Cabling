@@ -1,0 +1,33 @@
+{
+  "name": "cabling-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:frontend": "node scripts/build-frontend.mjs --watch",
+    "dev:backend": "node --experimental-strip-types --watch server/index.ts",
+    "build": "node scripts/build-frontend.mjs",
+    "start": "node --experimental-strip-types server/index.ts",
+    "test": "node --test --experimental-strip-types tests/*.test.ts",
+    "test:watch": "node --test --watch --experimental-strip-types tests/*.test.ts",
+    "seed:excel": "powershell -ExecutionPolicy Bypass -File scripts/export-seed-data.ps1"
+  },
+  "dependencies": {
+    "@pdf-lib/fontkit": "^1.1.1",
+    "pdf-lib": "^1.17.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "xlsx": "^0.18.5",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.0",
+    "vitest": "^3.2.4"
+  }
+}

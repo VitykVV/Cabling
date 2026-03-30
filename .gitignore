@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+data/app.db
+data/app.db-shm
+data/app.db-wal
+npm-debug.log*
+.env
+
