@@ -57,6 +57,14 @@ Rekomendowany workflow:
 4. otwórz PR do `main`;
 5. merguj dopiero po zielonym `CI` i review.
 
+## Lokalny Bezpiecznik
+
+Repo ma aktywny lokalnie hook `pre-push`, który blokuje przypadkowy push do `main`.
+
+Awaryjne obejście tylko świadomie:
+- `PowerShell: $env:ALLOW_MAIN_PUSH=1; git push origin main`
+- `bash: ALLOW_MAIN_PUSH=1 git push origin main`
+
 ## Zalecane Ustawienia GitHub
 
 Tych ustawień nie da się wiarygodnie wymusić samymi plikami repo, więc trzeba je kliknąć w GitHub UI:

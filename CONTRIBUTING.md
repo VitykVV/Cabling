@@ -4,6 +4,12 @@
 
 Nie rozwijaj projektu bezpośrednio na `main`. `main` ma zostać gałęzią gotową do odtworzenia i wdrożenia.
 
+Repo ma lokalny hook `pre-push`, który blokuje przypadkowy push do `main`.
+
+Awaryjne obejście tylko świadomie:
+- `PowerShell: $env:ALLOW_MAIN_PUSH=1; git push origin main`
+- `bash: ALLOW_MAIN_PUSH=1 git push origin main`
+
 ## Branching
 
 Preferowane nazwy branchy:
