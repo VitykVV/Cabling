@@ -4,6 +4,11 @@ coverage/
 data/app.db
 data/app.db-shm
 data/app.db-wal
+runtime/
 npm-debug.log*
+*.log
 .env
-
+.env.local
+.env.*.local
+~$*.xlsm
+.DS_Store
